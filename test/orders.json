@@ -1,0 +1,128 @@
+[
+  {
+    "orderId": "a0a4bcdb-8c90-4c5c-8d48-054f354425d0",
+    "customer": "Kory Christiansen",
+    "items": [
+      {
+        "name": "Bacon Piece",
+        "price": 7.13,
+        "quantity": 3
+      },
+      {
+        "name": "Pizza Slice",
+        "price": 0.99,
+        "quantity": 5
+      },
+      {
+        "name": "Gloves",
+        "price": 0.73,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "orderId": "78ae15f9-ddb6-47ea-8b7c-207f9a65adfd",
+    "customer": "Mozelle Wintheiser",
+    "items": [
+      {
+        "name": "Gorgeous Hat",
+        "price": 8.99,
+        "quantity": 1
+      },
+      {
+        "name": "French Fries Pack",
+        "price": 6.99,
+        "quantity": 5
+      },
+      {
+        "name": "Shoes",
+        "price": 8.52,
+        "quantity": 2
+      },
+      {
+        "name": "Bike",
+        "price": 6.99,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "21bb06db-20f4-4d90-a62c-290fd87af892",
+    "customer": "Dr. Muhammad Daugherty",
+    "items": [
+      {
+        "name": "Fuel",
+        "price": 24.01,
+        "quantity": 1
+      },
+      {
+        "name": "Coke",
+        "price": 0.79,
+        "quantity": 3
+      },
+      {
+        "name": "Chips",
+        "price": 4.19,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "orderId": "b3f4f399-1c69-4bfc-9006-bc573dfc013b",
+    "customer": "Kirk Bednar",
+    "items": [
+      {
+        "name": "Cheese",
+        "price": 4.54,
+        "quantity": 2
+      },
+      {
+        "name": "Gloves",
+        "price": 9.99,
+        "quantity": 1
+      },
+      {
+        "name": "Tuna",
+        "price": 9.67,
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "orderId": "6c23c07b-55fb-44b4-9185-a6fc809481f4",
+    "customer": "Ellis Kshlerin",
+    "items": [
+      {
+        "name": "Chips",
+        "price": 1.30,
+        "quantity": 4
+      },
+      {
+        "name": "Hat",
+        "price": 4.05,
+        "quantity": 5
+      },
+      {
+        "name": "Shirt",
+        "price": 3.19,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "orderId": "35f5a46e-545b-4b3a-847d-da503844a427",
+    "customer": "Mohammed Herzog",
+    "items": [
+      {
+        "name": "Fish",
+        "price": 5.21,
+        "quantity": 1
+      },
+      {
+        "name": "Chips",
+        "price": 1.53,
+        "quantity": 2
+      }
+    ]
+  }
+]
